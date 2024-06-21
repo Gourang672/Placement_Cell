@@ -15,11 +15,7 @@
 **Server:** `Node.js, Express.js, Mongoose, EJS,
 
 
-## 🔗 Links
-Github Link:- 
 
-## 🔗 Live Demo
-Render Link:- 
 
 ## Features
 
