@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 const DB = 'mongodb+srv://gourangcharanmishra2001:ccxYfAwqC7Rdo1Wl@cluster0.ageetyg.mongodb.net/PlacementCell';
-
+mongoose.set('strictQuery', true);
 mongoose.connect(DB, {
 	useNewUrlParser: true,
 	useUnifiedTopology: true,
